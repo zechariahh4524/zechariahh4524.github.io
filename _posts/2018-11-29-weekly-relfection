@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Weekly Reflection"
+date: 2018-11-29
+---
+Hi it's zechariah and it is time for my blog i'm going to be talking about this problem i got on my mid-term for AP CSP the question asked you to design a function that takes in the color of a circle and produces a small dot with the given color the answer was #dot::string->image because you need a string to change the color then a image to make the circle an answer like #dot::number->image wopuld be wrong because it not going to give you what you want
